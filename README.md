@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b-alvd" alt="b-alvd" /></a> </p>
 
-- 👨‍💻 Pour voir mon travail [basilealeveque.fr](basilealeveque.fr)
+- 👨‍💻 Pour voir mon travail **https://basilealeveque.fr**
 
 - 📫 Pour me contacter **basilealeveque@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
